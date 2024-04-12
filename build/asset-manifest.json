@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsWeb-using-Class-component-and-API-in-React/static/css/main.e6c13ad2.css",
+    "main.js": "/NewsWeb-using-Class-component-and-API-in-React/static/js/main.29bf02e7.js",
+    "static/js/453.15840c88.chunk.js": "/NewsWeb-using-Class-component-and-API-in-React/static/js/453.15840c88.chunk.js",
+    "static/media/load.jpg": "/NewsWeb-using-Class-component-and-API-in-React/static/media/load.2187296e5d399b5c8373.jpg",
+    "index.html": "/NewsWeb-using-Class-component-and-API-in-React/index.html",
+    "main.e6c13ad2.css.map": "/NewsWeb-using-Class-component-and-API-in-React/static/css/main.e6c13ad2.css.map",
+    "main.29bf02e7.js.map": "/NewsWeb-using-Class-component-and-API-in-React/static/js/main.29bf02e7.js.map",
+    "453.15840c88.chunk.js.map": "/NewsWeb-using-Class-component-and-API-in-React/static/js/453.15840c88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.29bf02e7.js"
+  ]
+}
